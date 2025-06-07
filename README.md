@@ -1,3 +1,3 @@
-# Angular linkedSignal(): The Missing Link in Signal-Based Reactivity
+# Angular 19 Quiz with Signal
 
-https://dummyjson.com/docs/posts#posts-search
+!([quiz](https://github.com/piyalidas10/Angular-19-Quiz-with-Signal/blob/21444e6aefa5ff8ef85cc3a5eec7497474084b2b/quiz.png))
